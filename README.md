@@ -22,27 +22,18 @@ Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated d
 |---------------------------------------------------|---------------------------------------------------|----------------------------------------------------|
 | Creating responsive, intuitive, and dynamic user interfaces that drive engagement. | Building secure, high-performance APIs and server-side logic to power complex apps. | Designing database structures and workflows for scalability and reliability. |
 
+<h2 align="center">🛠️ Languages and Tools</h2>
+
+<p align="center">
+  <!-- Supported by skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,python,mysql,git,figma,wordpress,vscode" alt="Tech Stack Icons" />
+  <!-- Reliable individual SVGs for the rest -->
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" style="margin: 0 6px; vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/xampp.svg" alt="XAMPP" width="48" height="48" style="margin: 0 6px; vertical-align: middle;" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="48" height="48" style="margin: 0 6px; vertical-align: middle;" />
+</p>
+
 ### 📧 How to Reach Me:
 - **Email**: [FraolAdmasu.fadm94202@gmail.com](mailto:FraolAdmasu.fadm94202@gmail.com)
 - **LinkedIn**: [linkedin.com/in/fraol-admasu](https://www.linkedin.com/in/fraol-admasu)
 - **Portfolio**: [View](#)
-
-### Languages and Tools:
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/xampp.svg" alt="xampp" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
-</p>
-
----
