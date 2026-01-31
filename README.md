@@ -5,22 +5,31 @@
 Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated developer, always eager to learn and grow. Here's a little about me:
 
 ### 🔧 What I’m Working On:
-- Developing innovative software solutions to streamline workflows and enhance user experiences.
-- Building scalable web applications using modern frameworks like **Python, PHP, JavaScript, HTML & CSS**.
-- Experimenting with automation and DevOps tools to improve deployment pipelines.
+- Developing innovative software solutions to streamline workflows and enhance user experiences  
+- Building scalable web applications using modern web technologies  
+- Experimenting with automation and DevOps tools to improve deployment pipelines  
 
 ### 🌿 What I’m Learning:
-- Diving deeper into **Web Development & Database Administration**, **backend development with Python & PHP**.
-
-### 📚 Collaboration:
-- Open to collaborating on impactful open-source projects that make a difference.
-- Looking forward to contributing to **web development communities**, **open-source AI projects**, and **developer education initiatives**.
+- Advanced web development and database administration  
+- Backend engineering and system optimization  
 
 ### 🚀 What I Bring to the Table
 
 | Frontend Engineering                              | Backend Architecture                              | System Design                                      |
 |---------------------------------------------------|---------------------------------------------------|----------------------------------------------------|
 | Creating responsive, intuitive, and dynamic user interfaces that drive engagement. | Building secure, high-performance APIs and server-side logic to power complex apps. | Designing database structures and workflows for scalability and reliability. |
+
+### 🤝 Collaboration & Community
+- Open to collaborating on impactful open-source projects  
+- Interested in contributing to:
+  - Web development communities  
+  - Open-source and AI-driven projects  
+  - Developer learning and education initiatives  
+
+### 💡 Work Ethic & Mindset
+- Strong problem-solving mindset  
+- Continuous learner with a growth-oriented approach  
+- Comfortable working independently and collaboratively in team environments  
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 
@@ -36,4 +45,4 @@ Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated d
 ### 📧 How to Reach Me:
 - **Email**: [FraolAdmasu.fadm94202@gmail.com](mailto:FraolAdmasu.fadm94202@gmail.com)
 - **LinkedIn**: [linkedin.com/in/fraol-admasu](https://www.linkedin.com/in/fraol-admasu)
-- **Portfolio**: [View](#)
+- **Portfolio**: Coming soon 🚧
