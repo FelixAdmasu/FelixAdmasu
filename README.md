@@ -33,14 +33,34 @@ Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated d
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 
-<p align="center">
+<!-- <p align="center">
   <!-- Supported by skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,python,mysql,git,figma,wordpress,vscode" alt="Tech Stack Icons" />
+  <!--<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,python,mysql,git,figma,wordpress,vscode" alt="Tech Stack Icons" />
   <!-- Reliable individual SVGs for the rest -->
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" style="margin: 0 6px; vertical-align: middle;" />
+  <!--<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" style="margin: 0 6px; vertical-align: middle;" alt />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/xampp.svg" alt="XAMPP" width="48" height="48" style="margin: 0 6px; vertical-align: middle;" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="48" height="48" style="margin: 0 6px; vertical-align: middle;" />
+</p> -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=laravel" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/xampp.svg" width="48"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48"/>
 </p>
+
 
 ### 📧 How to Reach Me:
 - **Email**: [FraolAdmasu.fadm94202@gmail.com](mailto:FraolAdmasu.fadm94202@gmail.com)
