@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated d
 
 | Frontend Engineering                              | Backend Architecture                              | System Design                                      |
 |---------------------------------------------------|---------------------------------------------------|----------------------------------------------------|
-| Creating responsive, intuitive, and dynamic user interfaces that drive engagement. | Building secure, high-performance APIs and server-side logic to power complex apps. | Designing database structures and workflows for scalability and reliability. |
+| Creating responsive, intuitive, and dynamic user interfaces that drive engagement. | Building secure, high-performance APIs and server-side logic to power complex apps. | Designing database structur[...]
 
 ### 🤝 Collaboration & Community
 - Open to collaborating on impactful open-source projects  
@@ -73,7 +73,7 @@ Welcome to my GitHub profile! I'm **Fraol Admasu**, a passionate and dedicated d
   <img src="https://cdn.simpleicons.org/composer/885630" width="48" height="48" alt="Composer"/>
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
   <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" alt="Microsoft SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="Microsoft SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" alt="SQL Server Management"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Microsoft Power BI"/>
